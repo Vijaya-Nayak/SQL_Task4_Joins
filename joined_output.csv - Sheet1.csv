@@ -1,0 +1,4 @@
+order_id,order_date,customer_name,region,product_name,quantity,revenue
+101,2024-03-12,John Doe,Asia,Laptop,2,1600
+102,2024-04-15,Jane Smith,Europe,Mouse,3,90
+103,2024-05-20,Ravi Kumar,Asia,Keyboard,1,40
